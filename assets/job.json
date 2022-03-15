@@ -1,0 +1,35 @@
+{
+  "status" : 200,
+  "data" : [
+    {
+      "id" : 1,
+      "title" : "Kos Jakarta",
+      "image" : "1111.jpg",
+      "harga" : "400.000"
+    },
+    {
+      "id" : 2,
+      "title" : "Kos Depok",
+      "image" : "2222.jpg",
+      "harga" : "500.000"
+    },
+    {
+      "id" : 3,
+      "title" : "Kos Bogor",
+      "image" : "3333.jpg",
+      "harga" : "600.000"
+    },
+    {
+      "id" : 4,
+      "title" : "Kos Bekasi",
+      "image" : "4444.jpg",
+      "harga" : "700.000" 
+    },
+    {
+      "id" : 5,
+      "title" : "Kos Tangerang",
+      "image" : "5555.jpg",
+      "harga" : "800.000"
+    }
+  ]
+}

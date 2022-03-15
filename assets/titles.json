@@ -1,0 +1,37 @@
+[
+  {
+    "name" : "Dio",
+    "umur" : "20",
+    "title" : "Pelajar"
+  },
+  {
+    "name" : "Sukris",
+    "umur" : "23",
+    "title" : "mahasiswa"
+  },
+  {
+    "name" : "Tisna",
+    "umur" : "22",
+    "title" : "mahasiswa"
+  },
+  {
+    "name" : "Yusran",
+    "umur" : "21",
+    "title" : "Pelajar"
+  },
+  {
+    "name" : "Sulis",
+    "umur" : "21",
+    "title" : "mahasiswa"
+  },
+  {
+    "name" : "Tono",
+    "umur" : "18",
+    "title" : "Pelajar"
+  },
+  {
+    "name" : "Ucup",
+    "umur" : "17",
+    "title" : "Pelajar"
+  }
+]
